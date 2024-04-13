@@ -9,7 +9,7 @@
 
 spark.conf.set(
     "fs.azure.account.key.tanishqformula1dl.dfs.core.windows.net",
-    "7+y8NZ4b/0Tfh/FnhOVLE1yyZYQOuEmjTSaE+8yNe6RcrtuUArtKJYGI7vEAI60L5xjjSMzuGUFZ+AStDj4AdA=="
+    "******"
 )
 
 # COMMAND ----------
